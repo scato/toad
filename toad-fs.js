@@ -1,3 +1,5 @@
+// copyright 2010 scato eggen
+
 var fs = require("fs");
 var events = require("./toad-events");
 

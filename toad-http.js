@@ -1,3 +1,5 @@
+// copyright 2010 scato eggen
+
 var http = require("http")
     events = require("./toad-events");
 

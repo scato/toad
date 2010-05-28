@@ -1,3 +1,5 @@
+// copyright 2010 scato eggen
+
 var events = require('events');
 
 exports.Event = function() {

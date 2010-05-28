@@ -1,3 +1,5 @@
+// copyright 2010 scato eggen
+
 require("./es5");
 
 var events = require("./toad-events"),
