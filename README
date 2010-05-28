@@ -1,0 +1,7 @@
+copyright 2010 scato eggen
+
+all rights reserved, except for the right to read this code and learn from it :)
+
+toad is a proof-of-concept. test.js shows how towel.js-like reactive programming can be used for node.js.
+
+toad-events, toad-fs and toad-http serve as intermediate layers for the events, fs, and http modules. instead of passing callbacks functions return promises and streams. streams can be appended to other streams, streams can be translated into other streams through functions that return promises.
